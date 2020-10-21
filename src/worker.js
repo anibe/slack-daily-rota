@@ -192,12 +192,6 @@ class WhosNext {
             pos: 'his'
 		},
 		{
-			name: 'Lee',
-			username: '<@UUC0BRY0J>',
-            pro: 'he',
-            pos: 'his'
-		},
-			{
 			name: 'Antonio',
 			username: '<@U011RGV305C>',
             pro: 'he',
