@@ -162,8 +162,8 @@ class WhosNext {
             pos: 'his'
 		},
 		{
-			name: 'Leandro',
-			username: '<@UCJLAS1QE>',
+			name: 'Akshay',
+			username: '<@U5FEJGZV0>',
             pro: 'he',
             pos: 'his'
 		},		
@@ -186,8 +186,8 @@ class WhosNext {
             pos: 'his'
 		},
 		{
-			name: 'Alexis',
-			username: '<@UQR8HQS11>',
+			name: 'Amit',
+			username: '<@UHV8K7VN3>',
             pro: 'he',
             pos: 'his'
 		},
@@ -196,10 +196,52 @@ class WhosNext {
 			username: '<@U011RGV305C>',
             pro: 'he',
             pos: 'his'
+		},
+		{
+			name: 'Anibe',
+			username: '<@U83QSM30D>',
+            pro: 'he',
+            pos: 'his'
+		},	
+		{
+			name: 'Aratrika',
+			username: '<@U83QSM30D>',
+            pro: 'she',
+            pos: 'her'
+		},	
+		{
+			name: 'Diego',
+			username: '<@U01DQKGGFMK>',
+            pro: 'he',
+            pos: 'his'
+		},	
+		{
+			name: 'Nuthan',
+			username: '<@UH92RR5NH>',
+            pro: 'he',
+            pos: 'his'
+		},	
+		{
+			name: 'Oriana',
+			username: '<@U0150D4LJP4>',
+            pro: 'she',
+            pos: 'her'
+		},	
+		{
+			name: 'Priyanka',
+			username: '<@U0K4S8R24>',
+            pro: 'she',
+            pos: 'her'
+		},	
+		{
+			name: 'Sakib',
+			username: '<@U0JQB6464>',
+            pro: 'he',
+            pos: 'his'
 		}	
 		];
 		this.nonWeekDays = [6, 0]; // Saturday (6) and Sunday (0)
-		this.nonWorkDates = ['Fri Apr 10 2020', 'Mon Apr 13 2020', 'Mon May 8 2020', 'Mon May 25 2020', 'Fri Dec 25 2020', 'Mon Dec 28 2020']; // Public holidays and one-off out of office dates
+		this.nonWorkDates = ['Fri Apr 2 2021', 'Mon Apr 5 2021', 'Mon May 3 2021', 'Mon May 31 2021', 'Mon Dec 27 2021', 'Tue Dec 28 2021']; // Public holidays and one-off out of office dates
 		this.dailyAlertTime24h = '0830';
 		this.rotaIndex = 0;
 		this.slackMessage = slackMessage.command;
