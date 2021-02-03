@@ -161,12 +161,12 @@ class WhosNext {
             pro: 'he',
             pos: 'his'
 		},
-		{
-			name: 'Akshay',
-			username: '<@U5FEJGZV0>',
-            pro: 'he',
-            pos: 'his'
-		},		
+		// {
+		// 	name: 'Akshay',
+		// 	username: '<@U5FEJGZV0>',
+        //     pro: 'he',
+        //     pos: 'his'
+		// },		
 		{
 			name: 'Priyo',
 			username: '<@U4416LBJL>',
