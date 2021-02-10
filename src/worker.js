@@ -298,7 +298,7 @@ class WhosNext {
 
 			return sendMessage(this.slackMessage, { blocks, text });
 		} else {
-			const text = 'No standup today :sleeping: :palm_tree:';
+			const text = isTodayOfficeHoliday ? 'Public holiday :uk: :llama_holiday: :palm_tree:' : 'No standup today :sleeping:';
 			return sendMessage(this.slackMessage, {
 				blocks: [{
 					type: 'section',
