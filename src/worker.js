@@ -205,7 +205,7 @@ class WhosNext {
 		},	
 		{
 			name: 'Aratrika',
-			username: '<@U83QSM30D>',
+			username: '<@U3USVDGPK>',
             pro: 'she',
             pos: 'her'
 		},	
