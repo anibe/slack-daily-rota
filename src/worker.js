@@ -128,7 +128,8 @@ function generateRandomMessage(id, pro, pos) {
 		`Take me far away, and put some cheese in my ears, because ${id} is doing the standup today. I am filled with dread.`,
 		`Whenever ${id} does the standup, my feet shift uncomfortably, like an embarrassed gearbox. But it is not from boredom, or guilt, or worrying about that unresolved blood debt. It's because ${id} has a voice like a bassoon.`,
 		`:cat2: is doing a standup this morning. Oh wait it's ${id} I think. Not :cat2: who is a cat and therefore a total dumbo. :happy-sad:`,
-		`In addition to running standup today, ${id} will also be inspecting every team member's socks :socks:`
+		`In addition to running standup today, ${id} will also be inspecting every team member's socks :socks:`,
+		`There are about 55 million meetings happening today around the world, and at least half of them are a waste of time, not achieving their intended objectives. Luckily, the standup ${id} will run today is not one of them :pinkshirt_transparent:`
 	];
 
 	return messages[getRandomInt(0, messages.length - 1)];
@@ -160,13 +161,7 @@ class WhosNext {
 			username: '<@U14GHSETH>',
             pro: 'he',
             pos: 'his'
-		},
-		// {
-		// 	name: 'Akshay',
-		// 	username: '<@U5FEJGZV0>',
-        //     pro: 'he',
-        //     pos: 'his'
-		// },		
+		},	
 		{
 			name: 'Priyo',
 			username: '<@U4416LBJL>',
@@ -232,12 +227,6 @@ class WhosNext {
 			username: '<@U0K4S8R24>',
             pro: 'she',
             pos: 'her'
-		},	
-		{
-			name: 'Sakib',
-			username: '<@U0JQB6464>',
-            pro: 'he',
-            pos: 'his'
 		}	
 		];
 		this.nonWeekDays = [6, 0]; // Saturday (6) and Sunday (0)
