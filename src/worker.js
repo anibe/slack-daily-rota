@@ -185,12 +185,6 @@ class WhosNext {
 			username: '<@U011RGV305C>',
             pro: 'he',
             pos: 'his'
-		},
-		{
-			name: 'Anibe',
-			username: '<@U83QSM30D>',
-            pro: 'he',
-            pos: 'his'
 		},	
 		{
 			name: 'Aratrika',
@@ -213,12 +207,6 @@ class WhosNext {
 		{
 			name: 'Oriana',
 			username: '<@U0150D4LJP4>',
-            pro: 'she',
-            pos: 'her'
-		},	
-		{
-			name: 'Priyanka',
-			username: '<@U0K4S8R24>',
             pro: 'she',
             pos: 'her'
 		}	
